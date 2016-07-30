@@ -1,0 +1,3 @@
+[submodule "stringutil"]
+	path = stringutil
+	url = git@github.com:krushVarok/stringutil.git
